@@ -44,3 +44,6 @@
   padding-top: 70px;
   padding-bottom: 30px;
 }
+.info-content p {
+  margin-bottom: 0px;
+}
